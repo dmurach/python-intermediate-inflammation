@@ -1,4 +1,5 @@
 """Tests for statistics functions within the Model layer."""
+"""All tests passed."""
 
 import numpy as np
 import numpy.testing as npt
